@@ -12,9 +12,7 @@ html {
     justify-content: center; /* Center the buttons horizontally */
     flex-wrap: nowrap; /* Prevent buttons from wrapping to the next line */
     gap: 5px; /* Space between buttons */
-    background-color: #262626; /* Darker background for the button group */
     padding: 10px; /* Add padding for better spacing */
-    border-radius: 5px; /* Slightly rounded corners */
 }
 
 /* Style for color buttons */
@@ -66,16 +64,3 @@ html {
     color: #00ffcc; /* Bright teal on hover */
 }
 
-/* Divider icon customization */
-.uk-divider-icon {
-    border-top: 1px solid #555555; /* Subtle divider line */
-    margin: 20px 0; /* Add spacing around divider */
-}
-
-/* Card customization */
-.uk-card-secondary {
-    background-color: #2e2e2e; /* Dark gray for the card */
-    color: #e0e0e0; /* Light text for readability */
-    padding: 20px; /* Comfortable padding */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); /* Subtle shadow for depth */
-}
